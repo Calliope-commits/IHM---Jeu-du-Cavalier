@@ -1,7 +1,6 @@
 # IHM---Jeu-du-Cavalier
 Jeu du cavalier développé en C#
 
-# IHM- Jeu du Cavalier
 
 IUT Paris Descartes
 Enseignant : FOUGHALI Karim 
