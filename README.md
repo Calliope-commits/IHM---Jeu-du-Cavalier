@@ -1,4 +1,4 @@
-# IHM---Jeu-du-Cavalier
+# IHM---Problème-du-Cavalier
 Jeu du cavalier développé en C#
 
 
